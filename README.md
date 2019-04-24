@@ -30,4 +30,4 @@ While the precise metric and plot (see slide #9 versus #10) is a little differen
 
 ![alt text](total_reads_per_lane_RegularRun.png "Total Reads (in Millions) Per-Lane for HiSeq 2500 Regular Run")
 
-Please note that content almost identical to this README is on Biostars. **So, if you have any other similar observations, please leave a comment/answer there!**
+Please note that content almost identical to this README is on [Biostars](https://www.biostars.org/p/376585/). **So, if you have any other similar observations, please leave a comment/answer there!**
