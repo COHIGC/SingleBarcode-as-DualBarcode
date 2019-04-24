@@ -1,5 +1,4 @@
-# SingleBarcode-as-DualBarcode
-Testing Calling Single Barcode Samples from Mixed Runs as Dual-Barcode Samples
+# Testing Calling Single Barcode Samples from Mixed Runs as Dual-Barcode Samples
 
 Please click [here](https://github.com/COHIGC/SingleBarcode-as-DualBarcode/blob/master/cwarden_SingleBarcode_as_DualBarcode_Public.pdf) to view a more detailed summary of results.
 
