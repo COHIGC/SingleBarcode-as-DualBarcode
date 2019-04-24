@@ -10,7 +10,7 @@ While some conclusions are hard to make with a limited number of runs, I recomme
 
 **a)**	>40% of samples have **<50% Q30 I2 Reads**
  
-![alt text](Biostars_Fig1.JPG "Drop in I2 >Q30 Causes Read Loss")
+![alt text](Biostars_Fig1.JPG "Drop in I2 >Q30 Associated with Read Loss")
  
 The Percent >Q30 Values were extracted from the InterOp binary files, after converting them to text files (the plot above is for single-barcode paired-end samples mixed with dual-barcode samples, showing lower I2 Q30 values noticeably decreases the percent of reads called for a single-barcode sample when treated as a dual-barcode sample).  In terms of generating a table with those percent >Q30 values, the most relevant command would be:
 
